@@ -1,0 +1,10 @@
+development:
+  sessions:
+    default:
+      database: carte_francais_development
+      hosts:
+        - localhost:27017
+production:
+  sessions:
+    default:
+      uri: <%= ENV['MONGOLAB_URI'] %>
