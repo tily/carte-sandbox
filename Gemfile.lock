@@ -13,7 +13,7 @@ GEM
     backports (3.6.4)
     bson (2.3.0)
     builder (3.2.2)
-    carte-server (0.0.3)
+    carte-server (0.0.4)
       activesupport
       haml
       mongoid
