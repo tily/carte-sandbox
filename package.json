@@ -9,9 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "carte-client": "0.0.4",
+    "carte-client": "0.0.5",
     "coffee-reactify": "^3.0.0",
     "coffee-script": "^1.9.2",
+    "convert-source-map": "^1.1.0",
     "debowerify": "^1.2.1",
     "react": "^0.13.2",
     "react-loader": "^1.2.0"
