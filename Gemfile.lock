@@ -13,13 +13,14 @@ GEM
     backports (3.6.4)
     bson (2.3.0)
     builder (3.2.2)
-    carte-server (0.0.10)
+    carte-server (0.0.14)
       activesupport
       haml
       mongoid
       mongoid-geospatial
       mongoid-simple-tags
       mongoid_auto_increment_id (= 0.6.5)
+      redcarpet
       sinatra
       sinatra-contrib
       will_paginate_mongoid
@@ -54,6 +55,7 @@ GEM
     rack-test (0.6.3)
       rack (>= 1.0)
     rake (10.4.2)
+    redcarpet (3.2.3)
     sinatra (1.4.6)
       rack (~> 1.4)
       rack-protection (~> 1.4)
