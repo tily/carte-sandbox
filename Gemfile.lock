@@ -13,7 +13,7 @@ GEM
     backports (3.6.4)
     bson (2.3.0)
     builder (3.2.2)
-    carte-server (0.0.17)
+    carte-server (0.0.20)
       activesupport
       haml
       mongoid
@@ -49,7 +49,7 @@ GEM
     multi_json (1.11.0)
     optionable (0.2.0)
     origin (2.1.1)
-    rack (1.6.0)
+    rack (1.6.1)
     rack-protection (1.5.3)
       rack
     rack-test (0.6.3)
