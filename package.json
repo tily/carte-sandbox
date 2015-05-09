@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "browserify-css": "^0.6.1",
-    "carte-client": "0.0.20",
+    "carte-client": "0.0.21",
     "coffee-reactify": "^3.0.0",
     "coffee-script": "^1.9.2",
     "convert-source-map": "^1.1.0",
