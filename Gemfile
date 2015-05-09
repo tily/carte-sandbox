@@ -1,3 +1,4 @@
 source 'https://rubygems.org'
 gem 'carte-server'
-gem 'rake' # temp
+gem 'rake'
+gem 'thin'
