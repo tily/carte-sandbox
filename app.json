@@ -4,5 +4,8 @@
   "repository": "https://github.com/tily/carte-sandbox",
   "logo": "http://carte-sandbox.herokuapp.com/images/icon.png",
   "keywords": ["carte", "dictionary", "wiki", "information card"],
-  "addons": ["mongolab"]
+  "addons": ["mongolab"],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/ddollar/heroku-buildpack-multi.git"
+  }
 }
