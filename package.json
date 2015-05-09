@@ -9,11 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "browserify-css": "^0.6.1",
-    "coffee-reactify": "^3.0.0",
     "carte-client": "0.0.22",
     "coffee-script": "^1.9.2",
-    "debowerify": "^1.2.1",
     "gulp": "^3.8.11"
   }
 }
