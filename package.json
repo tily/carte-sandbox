@@ -15,6 +15,7 @@
     "coffee-script": "^1.9.2",
     "convert-source-map": "^1.1.0",
     "debowerify": "^1.2.1",
+    "gulp": "^3.8.11",
     "react": "^0.13.2",
     "react-loader": "^1.2.0"
   }
