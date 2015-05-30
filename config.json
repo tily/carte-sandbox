@@ -2,6 +2,7 @@
   "title": "Carte Sandbox",
   "description": "Sandbox for Carte",
   "link_color": "#2C21A6",
+  "link_active_color": "#2C21A6",
 
   "root_dir": "public",
   "root_path": "/",
