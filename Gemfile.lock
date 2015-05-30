@@ -59,6 +59,8 @@ GEM
       method_source (~> 0.8.1)
       slop (~> 3.4)
     rack (1.6.1)
+    rack-gzip-file (0.0.1)
+      rack (>= 1.5.0)
     rack-protection (1.5.3)
       rack
     rack-test (0.6.3)
@@ -95,5 +97,6 @@ PLATFORMS
 
 DEPENDENCIES
   carte-server
+  rack-gzip-file
   rake
   thin
